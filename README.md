@@ -1,6 +1,5 @@
-### <a href="https://twitter.com/Lu_Sife_">
-       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
+### <a href="https://twitter.com/Lu_Sife_"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
+      </a>
 
 <!--
 **LU-SIFE/LU-SIFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
