@@ -1,16 +1,24 @@
-### <a href="https://twitter.com/Lu_Sife_" align="center" width="100%"><img width="25%" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+# Hey, I'm Lu Sife.
 
-<!--
-**LU-SIFE/LU-SIFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://twitter.com/Lu_Sife_"><img src="https://img.shields.io/badge/-Twitter-blue"></a>
+  <a href="https://www.buymeacoffee.com/lusife"><img src="https://img.shields.io/badge/-Donation-yellow"></a>
+</div>
+<br>
 
-Here are some ideas to get you started:
+I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😐)<br>
+I'm trying to teach myself some useful JS libraries, maybe expand my knowledge to C++<br>
+I also mess around with some backend server stuff if I get __really__ bored.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Coding aside...
+
+---
+
+My pronouns are She/They. (Or whatever floats your boat 😉)<br>
+I also really enjoy music, it's one of the only things I take seriously. Favorite genres include: rock/metal, jazz, LoFi, and Jpop.<br>
+Some of my favorite pieces of media/literature are: [Death of a Salesman](https://en.wikipedia.org/wiki/Death_of_a_Salesman), Any [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) book, and Carpenter Brut's Album, [Trilogy](https://open.spotify.com/album/5iPLQmPK5f0r69TPJcfAt2?si=0zdPwieUQMO2TqzYge1wFQ).<br>
+##### Safe to say my tastes are quite varied...
+
+---
+
+Anyways, you can contact me on my [twitter](https://twitter.com/Lu_Sife_), assumming I check it at all lol.
