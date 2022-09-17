@@ -24,4 +24,3 @@ I'm also pretty chatty, so HMU if you want, I guess~<br>
 
 Anyways, you can contact me on my [twitter](https://twitter.com/Lu_Sife_), assumming I check it at all~ X3<br>
 ##### If you are a friend I miss, I'm doing okay.
-![Alt](https://repobeats.axiom.co/api/embed/de94575e9d83d8b16b4fa38797cba7f71206cbcd.svg "Repobeats analytics image")
