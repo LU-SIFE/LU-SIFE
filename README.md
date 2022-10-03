@@ -28,10 +28,9 @@ I'm also pretty chatty, so HMU if you want, I guess~<br>
 ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<kbd>
+
 Currently Listening To:<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
-</kbd>
 <br>
 
 Anyways, you can contact me on my [twitter](https://twitter.com/Lu_Sife_), assumming I check it at all~ X3<br>
