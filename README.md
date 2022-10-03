@@ -1,9 +1,6 @@
 # Hey, I'm Lucy...
 
-<div>
-  <a href="https://twitter.com/Lu_Sife_"><img src="https://img.shields.io/badge/-Twitter-blue"></a>
-  <a href="https://www.buymeacoffee.com/lusife"><img src="https://img.shields.io/badge/-Donation-yellow"></a>
-</div>
+[Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 <br>
 
 I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br>
