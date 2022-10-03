@@ -26,6 +26,8 @@ I'm also pretty chatty, so HMU if you want, I guess~<br>
 ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
 Anyways, you can contact me on my [twitter](https://twitter.com/Lu_Sife_), assumming I check it at all~ X3<br>
 Oh yeah, my email also exists.<br>
