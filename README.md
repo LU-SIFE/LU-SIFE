@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hey, I'm Lucy...
+
+</div>
 
 [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 <br>
