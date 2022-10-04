@@ -47,7 +47,7 @@
 <div align="center">
 
 <b>Currently Listening To:</b><br>
-[cat_jam](https://github.com/lu-sife/lu-sife/cat.gif)
+![cat_jam](https://github.com/lu-sife/lu-sife/cat.gif)
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lu-sife&show_icons=true&theme=github_dark)<br>
