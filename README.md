@@ -58,9 +58,9 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 Currently Listening To:<br>
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
 
-</div>
 
-Anyways, you can contact me via [email](mailto:itslusife@gmail.com), assumming I check it at all~ X3
+Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
+</div>
 <br>
 
 <!--
