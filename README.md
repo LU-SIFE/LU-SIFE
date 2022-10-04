@@ -14,11 +14,13 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-- I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br>
+- I'm a <b>Front-End Developer/Web Designer</b> who dabbles with a bit of <b>Back-End</b>.<br>
 
-- I'm trying to teach myself some useful JS libraries, flexbox, maybe expand my knowledge to C++<br>
+- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>. <br>
 
-- I also mess around with some backend server stuff if I get <b>really</b> bored~<br>
+- I want to get my hands on any programming language which applies to me, and I'm always eager for more!<br>
+
+- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)<br>
 
 ##### Coding aside~
 
@@ -49,7 +51,7 @@
 
 <div align="center">
 
-Currently Listening To:<br>
+<b>Currently Listening To:</b><br>
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
 
 
