@@ -7,6 +7,12 @@
 [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 <br>
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
+
+  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
+</div>
+
 I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br>
 I'm trying to teach myself some useful JS libraries, flexbox, maybe expand my knowledge to C++<br>
 I also mess around with some backend server stuff if I get __really__ bored~<br>
@@ -30,9 +36,6 @@ I'm also pretty chatty, so HMU if you want, I guess~<br>
 ---
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 Currently Listening To:<br>
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
