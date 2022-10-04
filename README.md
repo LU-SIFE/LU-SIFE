@@ -10,9 +10,9 @@
 
 <div>
 
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
 
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time.
 
@@ -46,7 +46,11 @@
 
 </div><br>
 
+<div>
+
 ---
+
+</div>
 
 <div align="center">
 
