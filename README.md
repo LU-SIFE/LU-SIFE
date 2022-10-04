@@ -23,7 +23,9 @@
 - When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
 </div>
 <div>
+
 ---
+
 </div>
 <div>
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
