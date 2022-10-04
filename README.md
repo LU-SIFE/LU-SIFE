@@ -14,11 +14,11 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-- I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time.
+- I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
 - I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
 
-- I want to get my hands on any programming language which applies to me, and I'm always eager for more!
+- I want to get my hands on any programming language which applies to me, and I'm always eager for more! :D
 
 - When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
 </div><br>
@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
-- <b>📃 Name:</b> Lucy (duh)
+- <b>📃 Name:</b> Lucy (Hi lol)
 
 - <b>⚧️ Gender:</b> She/They/Female 🏳️‍⚧️
 
@@ -48,24 +48,9 @@
 
 <img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="9.5%" height="8.5%" align="right">
 
-<b>Currently Listening To:</b><br>
+<b>🎵 Currently Listening To: 🎵</b><br>
 
-[![Darn. I'm listening to a spotify ad xD](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
-
-Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
+[![Darn. I'm listening to a spotify ad xD Try refreshing!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
 </div>
 
 ---
-
-<!--
-random code snippet i need xD
-
-I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br><br>
-Some of my favorite pieces of media/literature are: [Death of a Salesman](https://en.wikipedia.org/wiki/Death_of_a_Salesman), Any [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) book, and Carpenter Brut's Album, [Trilogy](https://open.spotify.com/album/5iPLQmPK5f0r69TPJcfAt2?si=0zdPwieUQMO2TqzYge1wFQ).<br><br>
-I'm also pretty chatty, so HMU if you want, I guess~
-##### Safe to say my tastes are quite varied~
-
-
-
-
-	-->
