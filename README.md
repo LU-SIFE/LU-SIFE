@@ -58,15 +58,13 @@ Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 
 ```
 function goodDay() {
-	if (github.user == "Incredible") {
-		console.log("You are valid and awesome!");
-	}
+  if (github.user == "Incredible") {
+    console.log("You are valid and awesome!");
+  }
 }
 ```
 
 </div>
-
----
 
 <!--
 random code snippet i need xD
