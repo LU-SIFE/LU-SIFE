@@ -28,7 +28,10 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
-My pronouns are She/They. 🏳️‍⚧️<br><br>
+<li>
+	Gender: She/They/Female 🏳️‍⚧️
+</li>
+
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br><br>
 Some of my favorite pieces of media/literature are: [Death of a Salesman](https://en.wikipedia.org/wiki/Death_of_a_Salesman), Any [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) book, and Carpenter Brut's Album, [Trilogy](https://open.spotify.com/album/5iPLQmPK5f0r69TPJcfAt2?si=0zdPwieUQMO2TqzYge1wFQ).<br><br>
 I'm also pretty chatty, so HMU if you want, I guess~
@@ -44,6 +47,5 @@ Currently Listening To:<br>
 
 </div>
 
-Anyways, you can contact me on my [twitter](https://twitter.com/Lu_Sife_), assumming I check it at all~ X3
+Anyways, you can contact me via [email](mailto:itslusife@gmail.com), assumming I check it at all~ X3
 <br>
-Oh yeah, my email also exists.<br>
