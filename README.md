@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hey, I'm Lucy...</h1>
+<h1> Heya! I'm Lucy!</h1>
 
 #### [<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee!%20%E2%98%95%20-%239146FF.svg?&style=for-the-badge">](https://www.buymeacoffee.com/lusife)
 
