@@ -14,11 +14,11 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-- I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time.<br>
+- I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time.
 
-- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>. <br>
+- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
 
-- I want to get my hands on any programming language which applies to me, and I'm always eager for more!<br>
+- I want to get my hands on any programming language which applies to me, and I'm always eager for more!
 
 - When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
 </div><br>
