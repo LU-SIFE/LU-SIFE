@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="9.5%" height="8.5%">
+<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="9.5%" height="8.5%" align="left">
 
 <b>Currently Listening To:</b><br>
 
