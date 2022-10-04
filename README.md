@@ -51,20 +51,11 @@
 
 
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=lu-sife&show_icons=true&theme=github_dark)
 </div>
 
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=lu-sife&show_icons=true&theme=github_dark" align="right">
-
-```
-function goodDay() {
-  if (github.user == "Incredible") {
-    console.log("You are valid & awesome!");
-  }
-}
-```
-
-</div>
+---
 
 <!--
 random code snippet i need xD
