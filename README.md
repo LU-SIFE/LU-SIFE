@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey, I'm Lucy...
+<h1> Hey, I'm Lucy...</h1>
 
 #### [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 </div>
