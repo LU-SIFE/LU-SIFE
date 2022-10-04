@@ -28,8 +28,25 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
+
+<li>
+	<b>Name:</b> Lucy (duh)
+</li>
+
 <li>
 	<b>Gender:</b> She/They/Female 🏳️‍⚧️
+</li>
+
+<li>
+	<b>Loves:</b> Music, Anime, Zelda, Terraria 
+</li>
+
+<li>
+	<b>Hates:</b> Transphobes, SQL, Pickles
+</li>
+
+<li>
+	<b>Music Taste:</b> <a href="https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK?si=SZrS25zpQxCCeHM4-ttBRw">Rock/Metal</a>, <a href="https://open.spotify.com/artist/62GoYifV4njTdvS8lD2yYT?si=0SnwdoAhQUKwGfwS2G9Jjw">jazz</a>,
 </li>
 
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br><br>
