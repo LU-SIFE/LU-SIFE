@@ -44,26 +44,11 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
-<b>Currently Listening To:</b>
+<b>Currently Listening To:</b><br>
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
 
-<div width="50%">
-
-```
-function goodDay() {
-  if (github.user == "Incredible") {
-    console.log("You are valid & awesome!");
-  }
-}
-```
-</div>
-</div>
-
-
-
-<div align="center">
 
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 
@@ -74,14 +59,6 @@ Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 
 <!--
 random code snippet i need xD
-
-```
-function goodDay() {
-  if (github.user == "Incredible") {
-    console.log("You are valid & awesome!");
-  }
-}
-```
 
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br><br>
 Some of my favorite pieces of media/literature are: [Death of a Salesman](https://en.wikipedia.org/wiki/Death_of_a_Salesman), Any [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie) book, and Carpenter Brut's Album, [Trilogy](https://open.spotify.com/album/5iPLQmPK5f0r69TPJcfAt2?si=0zdPwieUQMO2TqzYge1wFQ).<br><br>
