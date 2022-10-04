@@ -60,6 +60,8 @@ Currently Listening To:<br>
 
 
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=lu-sife)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
