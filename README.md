@@ -61,7 +61,8 @@ Currently Listening To:<br>
 
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 </div>
-<br>
+
+---
 
 <!--
 random code snippet i need xD
