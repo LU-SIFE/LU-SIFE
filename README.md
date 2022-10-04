@@ -46,8 +46,10 @@
 
 <div align="left">
 
-<b>Currently Listening To:</b><br>
+<b>Currently Listening To:</b>
 [![Probably an Ad. Refresh the page!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
+
+<div width="50%">
 
 ```
 function goodDay() {
@@ -57,10 +59,12 @@ function goodDay() {
 }
 ```
 </div>
+</div>
 
 
 
 <div align="center">
+
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lu-sife&show_icons=true&theme=github_dark)
