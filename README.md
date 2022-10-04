@@ -2,7 +2,7 @@
 
 <h1> Hey, I'm Lucy...</h1>
 
-#### [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
+#### [<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee!%20%E2%98%95%20-%239146FF.svg?&style=for-the-badge">](https://www.buymeacoffee.com/lusife)
 
 </div>
 
