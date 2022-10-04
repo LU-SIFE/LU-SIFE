@@ -45,15 +45,12 @@
 ---
 
 <div align="center">
+<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="9.5%" height="8.5%">
 
 <b>Currently Listening To:</b><br>
-<div>
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="8.5%" height="8.5%" align="left">
+
 
 [![Darn. I'm listening to a spotify ad xD](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
-
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="8.5%" height="8.5%" align="right">
-</div>
 
 Anyways, you can contact me via [email](mailto:itslusife@gmail.com) X3
 </div>
