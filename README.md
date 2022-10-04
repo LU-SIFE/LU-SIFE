@@ -7,13 +7,11 @@
 [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 <br>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
 
-  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
-</div>
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br>
+I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br><br>
 I'm trying to teach myself some useful JS libraries, flexbox, maybe expand my knowledge to C++<br>
 I also mess around with some backend server stuff if I get __really__ bored~<br>
 
@@ -21,11 +19,9 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 
 ---
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
 
-  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
-</div>
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 My pronouns are She/They.<br>
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br>
