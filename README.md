@@ -2,10 +2,8 @@
 
 # Hey, I'm Lucy...
 
+#### [Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
 </div>
-
-[Buy me a coffee! ☕](https://www.buymeacoffee.com/lusife)
-<br>
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
 
