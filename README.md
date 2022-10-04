@@ -21,10 +21,10 @@
 - I want to get my hands on any programming language which applies to me, and I'm always eager for more!
 
 - When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
-</div><br>
-
+</div>
+<div>
 ---
-
+</div>
 <div>
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
 
