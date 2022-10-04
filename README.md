@@ -38,7 +38,7 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 </li><br>
 
 <li>
-	<b>Loves:</b> Music, Anime, Zelda, Terraria 
+	<b>Loves:</b> Music, Anime, Zelda, Terraria, Friends (:D)
 </li><br>
 
 <li>
