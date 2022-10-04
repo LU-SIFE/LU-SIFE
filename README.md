@@ -29,7 +29,7 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 <li>
-	Gender ⇒ She/They/Female 🏳️‍⚧️
+	Gender  ⇒  She/They/Female 🏳️‍⚧️
 </li>
 
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br><br>
