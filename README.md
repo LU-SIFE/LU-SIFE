@@ -13,9 +13,10 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br><br>
-I'm trying to teach myself some useful JS libraries, flexbox, maybe expand my knowledge to C++<br><br>
-I also mess around with some backend server stuff if I get <b>really</b> bored~<br>
+> I work on tons of hobby projects, mostly web-based games. (Maybe some useful stuff once in a while 😭)<br><br>
+> 
+> I'm trying to teach myself some useful JS libraries, flexbox, maybe expand my knowledge to C++<br><br>
+> I also mess around with some backend server stuff if I get <b>really</b> bored~<br>
 
 ##### Coding aside~
 
