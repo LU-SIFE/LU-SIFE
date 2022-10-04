@@ -15,11 +15,9 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 
 ---
 
-<p align="right">
-
-  ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only)
-</p>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
+</div>
 
 My pronouns are She/They.<br>
 I also really enjoy music, it's the only things I take seriously. Favorite genres include: rock/metal, jazz, Phonk, Breakcore, and K/Jpop.<br>
