@@ -30,16 +30,12 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 
 
 - <b>Name:</b> Lucy (duh)
-<br>
 
 - <b>Gender:</b> She/They/Female 🏳️‍⚧️
-<br>
 
 - <b>Loves:</b> Music, Anime, Zelda, Terraria, Friends :D
-<br>
 
 - <b>Hates:</b> Transphobes, SQL, Pickles
-<br>
 
 - <b>Music Taste:</b> <a href="https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK?si=SZrS25zpQxCCeHM4-ttBRw">Rock/Metal</a>, <a href="https://open.spotify.com/artist/62GoYifV4njTdvS8lD2yYT?si=0SnwdoAhQUKwGfwS2G9Jjw">jazz</a>, <a href="https://open.spotify.com/artist/49yTs5PHrOjyslAqSF2iCG?si=DcZv66h5QmOXgF11Tvnu2A">EDM</a>, <a href="https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU?si=D46PKhJ4T7uA3-d68qsYew">Breakcore</a>, <a href="https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7?si=oX9ia1dVSOqAyEsT507U_A">K/JPop</a>
 
