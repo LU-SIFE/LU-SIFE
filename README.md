@@ -19,7 +19,7 @@
 - I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
 
 - When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
-</div><br>
+</div><p> </p><br>
 
 ---
 
