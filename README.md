@@ -29,7 +29,7 @@ I also mess around with some backend server stuff if I get __really__ bored~<br>
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
-- <b>📛 Name:</b> Lucy (duh)
+- <b>📃 Name:</b> Lucy (duh)
 
 - <b>⚧️ Gender:</b> She/They/Female 🏳️‍⚧️
 
