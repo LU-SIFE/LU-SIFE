@@ -20,10 +20,7 @@
 
 - I want to get my hands on any programming language which applies to me, and I'm always eager for more!<br>
 
-- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)<br>
-
-<h5> Coding aside~ </h5>
-
+- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
 </div><br>
 
 ---
