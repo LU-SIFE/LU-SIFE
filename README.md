@@ -33,7 +33,7 @@
 
 - <b>📃 Name:</b> Lucy (Hi lol)
 
-- <b>⚧️ Gender:</b> She/They/Female 🏳️‍⚧️
+- <b>⚧️ Gender:</b> She/They/Female 🏳️‍
 
 - <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Friends :D
 
