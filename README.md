@@ -37,7 +37,7 @@
 
 - <b>⚧️ Gender:</b> She/They/Female 🏳️‍
 
-- <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Friends :D
+- <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Cats, Friends :D
 
 - <b>🙁 Hates:</b> Transphobes, SQL, Pickles
 
