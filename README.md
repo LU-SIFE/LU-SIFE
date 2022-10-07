@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
+<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/tapcat.gif?raw=true" align="right">
+
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
 - I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
