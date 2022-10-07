@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/tapcat.gif?raw=true" align="right">
+<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/tapcat.gif?raw=true" align="right" width="20%" height="20%">
 
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
