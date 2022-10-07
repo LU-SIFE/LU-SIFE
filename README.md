@@ -10,9 +10,9 @@
 
 <div>
 
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
 
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
 <img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/tapcat.gif?raw=true" align="right" width="20%" height="20%">
 
@@ -28,9 +28,9 @@
 ---
 
 <div>
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
+<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
 
-<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
+<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
 - <b>📃 Name:</b> Lucy (Hi lol)
