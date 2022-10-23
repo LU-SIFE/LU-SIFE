@@ -18,11 +18,11 @@
 
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
-- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Shell</b>.
+- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
 
 - I want to get my hands on any programming language which applies to me, and I'm always eager for more! :D
 
-- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw). I'm always available to help others with their projects, and I try to play to my strengths.
+- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
 </div><br>
 
 ---
@@ -35,7 +35,7 @@
 
 - <b>📃 Name:</b> Lucy (Hi lol)
 
-- <b>⚧️ Gender:</b> She/They/Female 🏳️‍⚧️
+- <b>⚧️ Gender:</b> She/They/Female 🏳️‍
 
 - <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Cats, Friends :D
 
@@ -52,6 +52,7 @@
 
 <b>🎵 Currently Listening To: 🎵</b>  [Refresh!](https://github.com/LU-SIFE)<br>
 
-[![Darn I'm listening to an ad, refresh!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Darn. I'm listening to a spotify ad xD Try refreshing!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
+</div>
 
 ---
