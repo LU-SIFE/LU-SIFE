@@ -18,11 +18,11 @@
 
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
-- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
+- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Shell</b>.
 
 - I want to get my hands on any programming language which applies to me, and I'm always eager for more! :D
 
-- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
+- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw). I'm always available to help others with their projects, and I try to play to my strengths.
 </div><br>
 
 ---
@@ -35,7 +35,7 @@
 
 - <b>📃 Name:</b> Lucy (Hi lol)
 
-- <b>⚧️ Gender:</b> She/They/Female 🏳️‍
+- <b>⚧️ Gender:</b> She/They/Female 🏳️‍⚧️
 
 - <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Cats, Friends :D
 
