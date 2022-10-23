@@ -18,7 +18,7 @@
 
 - I'm a <b>Front-End Developer / Web Designer</b> who will dabble with a bit of <b>Back-End</b> stuff in her free time. :3
 
-- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Bash</b>.
+- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Shell</b>.
 
 - I want to get my hands on any programming language which applies to me, and I'm always eager for more! :D
 
