@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Heya! I'm Luna!</h1>
+<h1> Heya! I'm Lucy!</h1>
 
 #### [<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee!%20%E2%98%95%20-%239146FF.svg?&style=for-the-badge">](https://www.buymeacoffee.com/lusife) [<img src="https://img.shields.io/badge/My%20Website!%20-%239146FF.svg?&style=for-the-badge">](https://lu-sife.github.io)
 
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
-- <b>📃 Name:</b> Luna (or Lucy if you want :P)
+- <b>📃 Name:</b> Lucy (or Luna if you want :P)
 
 - <b>⚧️ Gender:</b> She/They 🏳️‍⚧️
 
