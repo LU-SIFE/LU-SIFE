@@ -33,9 +33,9 @@
 <img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
-- <b>📃 Name:</b> Lucy (or Luna if you want :P)
+- <b>📃 Name:</b> Lucy
 
-- <b>⚧️ Gender:</b> She/They 🏳️‍⚧️
+- <b>⚧️ Gender:</b> She/They 🏳️‍⚧️🏳️‍🌈
 
 - <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Cats, Friends :D
 
