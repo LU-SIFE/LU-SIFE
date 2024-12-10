@@ -43,14 +43,3 @@
 </div><br>
 
 ---
-
-<div align="left">
-
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/cat.gif?raw=true" width="9.5%" height="8.5%" align="right">
-
-<b>🎵 Currently Listening To: 🎵</b>  [Refresh!](https://github.com/LU-SIFE)<br>
-
-[![Darn. I'm listening to a spotify ad xD Try refreshing!](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lckj8cqkajywo3nqxx6rlbgc&redirect=true)
-</div>
-
----
