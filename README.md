@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1> Heya! I'm Ivory!</h1>
-
-#### [<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee!%20%E2%98%95%20-%239146FF.svg?&style=for-the-badge">](https://www.buymeacoffee.com/lusife) [<img src="https://img.shields.io/badge/My%20Website!%20-%239146FF.svg?&style=for-the-badge">](https://lu-sife.github.io)
+<h1> Heya! I'm LU-SIFE!</h1>
 
 </div>
-
----
 
 <div>
 
@@ -14,16 +10,12 @@
 
 <img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
 
-<img src="https://github.com/LU-SIFE/LU-SIFE/blob/main/tapcat.gif?raw=true" align="right" width="20%" height="20%">
 
-- I'm a <b>Front-End Developer / Web Designer</b> who dabbles with a bit of <b>Back-End</b> stuff in her free time. :3
+- I'm a <b>Javascript Developer / Web Designer</b> who cares about their work.<br><br>
 
-- I'm learning <b>Flexbox</b>, <b>Three.JS</b>, <b>PHP</b>, and <b>Shell</b>.
+- I know tons of languages, HTML, CSS, SASS, Javascript, Angular.js, Node.js, PHP, etc.<br><br>
 
-- I want to get my hands on any programming language which applies to me, and I'm always eager for more! :D
-
-- When I'm not ruining my brain with code, I'm probably messing around in Linux (Arch btw)
-</div><br>
+- I'm a fast learner, and able to pick up any framework as fast as needed. I love working on projects in my spare time, like mechanical keyboards, 3d modeling/printing, etc.<br><br>
 
 ---
 
@@ -33,11 +25,13 @@
 <img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
 
 
-- <b>📃 Name:</b> Ivory
+- <b>📃 Website:</b> <a href="https://lu-sife.github.io">lu-sife.github.io</a>
 
-- <b>⚧️ Gender:</b> She/They 🏳️‍⚧️🏳️‍🌈
+- <b>💬 Favorite Language:</b> Javascript
 
-- <b>💖 Loves:</b> Music, Anime, Zelda, Terraria, Cats, Friends :D
+- <b>💖 Hobbies:</b> Music, 3d Printing, Reading, Games, and Photography.
 
-- <b>🎸 Music Taste:</b> <a href="https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK?si=SZrS25zpQxCCeHM4-ttBRw">Rock/Metal</a>, <a href="https://open.spotify.com/artist/62GoYifV4njTdvS8lD2yYT?si=0SnwdoAhQUKwGfwS2G9Jjw">jazz</a>, <a href="https://open.spotify.com/artist/49yTs5PHrOjyslAqSF2iCG?si=DcZv66h5QmOXgF11Tvnu2A">EDM</a>, <a href="https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU?si=D46PKhJ4T7uA3-d68qsYew">Breakcore</a>, <a href="https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7?si=oX9ia1dVSOqAyEsT507U_A">K/JPop</a>.
+- <b>🎸 Music Taste:</b> Jazz Guitar, Modern Jazz, Electronic, Progressive Rock, Indie, etc.
+
+- <b>✨ Thanks for checking out my profile!</b>
 </div><br>
