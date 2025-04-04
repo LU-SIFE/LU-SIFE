@@ -6,9 +6,9 @@
 
 <div>
 
-<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left">
 
-<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/languages.svg#gh-light-mode-only" align="left">
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/overview.svg#gh-light-mode-only" align="left">
 
 
 - I'm a <b>Javascript Developer / Web Designer</b> who cares about their work.<br><br>
@@ -19,10 +19,11 @@
 
 ---
 
-<div>
-<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="right">
 
-<img src="https://raw.githubusercontent.com/LU-SIFE/github-stats/master/generated/overview.svg#gh-light-mode-only" align="right">
+<div>
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right">
+
+<img src="https://raw.githubusercontent.com/lu-sife/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right">
 
 
 - <b>📃 Website:</b> <a href="https://lu-sife.github.io">lu-sife.github.io</a>
